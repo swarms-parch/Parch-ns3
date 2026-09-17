@@ -10,7 +10,7 @@ This repository contains the NS-3 implementation of the PARCH GCS–CH authentic
 
 
 
-\- `parch\_protocol.cc` — NS-3 implementation of PARCH
+\- `parch_protocol.cc` — NS-3 implementation of PARCH
 
 \- `ns-sim.png` — successful functional-validation output
 
